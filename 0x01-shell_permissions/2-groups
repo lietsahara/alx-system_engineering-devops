@@ -1,0 +1,3 @@
+#!/bin/bash
+user='whoami'
+id -g $user
